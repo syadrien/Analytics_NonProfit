@@ -3,3 +3,4 @@
 
 
 If the notebook doesn't show, click on the link below : 
+https://nbviewer.jupyter.org/github/syadrien/Analytics_NonProfit/blob/master/Anonymize_code_Data/Analytics_Anonymize.ipynb
